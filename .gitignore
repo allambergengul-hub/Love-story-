@@ -1,2 +1,11 @@
+# Python
 __pycache__/
 *.pyc
+.venv/
+
+# Node / HyperFrames (rendering the still-to-film template)
+node_modules/
+.hyperframes/
+renders/
+*.mp4
+**/templates/**/out/
